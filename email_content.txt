@@ -1,0 +1,2 @@
+Chào bạn,
+Đây là email được gửi tự động bằng Python.
